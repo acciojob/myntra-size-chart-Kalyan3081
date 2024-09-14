@@ -1,2 +1,21 @@
+table {
+            border-collapse: collapse;
+            border: 1px solid black;
+            width: 100%;
+        }
 
-/* Your CSS Code here. */
+        th, td {
+            border: 1px solid black;
+            padding: 1px;
+            text-align: left;
+        }
+td{
+	text-align:right
+}
+.body{
+	text-align:left
+}
+
+        .middle {
+            margin: 0 auto;
+        }
